@@ -1,8 +1,8 @@
-# Create new project on git
+### Create new project on git
 ```
-
+Tạo project mới thôi, tự mò đi :)))
 ```
-# Create new folder contains your code
+### Create new folder contains your code and chạy cmd
 ```
  1: git init: Initialized empty Git
  2: git remote add origin {link tới project trên git}
